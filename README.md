@@ -13,7 +13,7 @@
     <a href="https://github.com/hfolk25/workout-tracker"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/hfolk25/workout-tracker">View Demo</a>
+    <a href="http://workout-tracker-hfolk25.herokuapp.com/">View Demo</a>
     ·
     <a href="https://github.com/hfolk25/workout-tracker/issues">Report Bug</a>
     ·
@@ -121,7 +121,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Hannah Folk - hfolk25@gmail.com
 
-Project Link: [https://github.com/hfolk25/workout-tracker](https://github.com/hfolk25/workout-tracker)
+Project Link: [http://workout-tracker-hfolk25.herokuapp.com/](http://workout-tracker-hfolk25.herokuapp.com/)
 
 
 
